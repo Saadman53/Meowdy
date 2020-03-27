@@ -1,2 +1,1 @@
-# Meowdy
-A tinder website for cats (made for fun)
+TinDog Starting Files
